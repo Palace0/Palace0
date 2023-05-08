@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Palace0
-- 👀 I’m interested in Ethical Hacking, pentesting and penetration
-- 🌱 I’m currently learning python, c++, web development
+- 👀 I’m interested in Ethical Hacking, pentesting and penetration and cyber security
+- 🌱 I’m currently learning python, c++, web development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me teddymoh06@gmail,com
 
