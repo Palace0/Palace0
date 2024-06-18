@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Palace0
+- 👋 Hi, I’m Teddy Anne
 - 👀 I’m interested in Data analysis and Data science
 - 🌱 I’m currently learning python, Data analysis tools, libraries, excel, SQL and Data visualization, R
 - 💞️ I’m looking to collaborate on ...
